@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: playwright-demo
+Version: 0.0.0
+Keywords: playwright
+
+# Test demo with Playwright framwork 
+
+- This is a pip-installable package (should be installed in develop mode [-e]).
+- It contains all the modules test needs in order to run this repo content.

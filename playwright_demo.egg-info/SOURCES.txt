@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+playwright_demo.egg-info/PKG-INFO
+playwright_demo.egg-info/SOURCES.txt
+playwright_demo.egg-info/dependency_links.txt
+playwright_demo.egg-info/requires.txt
+playwright_demo.egg-info/top_level.txt
+test/test_main_column_items.py
