@@ -1,4 +1,4 @@
-playwright==1.25.1
+playwright
 pytest
 pytest-order
 allure-pytest
