@@ -4,8 +4,6 @@ import pytest
 from pages import HomePage
 
 import os
-os.remove()
-
 # ToDo modify class methods to be universal, add goto method('simple/detailed')
 
 class TestHomePageElements:
