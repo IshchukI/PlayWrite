@@ -12,7 +12,7 @@ def get_playwright():
 
 @fixture(scope='module')
 def chrome_browser(get_playwright):
-    browser = get_playwright.chromium.launch(headless=False)
+    browser = get_playwright.chromium.launch(headless=True)
     yield browser
     browser.close()
 
